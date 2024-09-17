@@ -24,9 +24,9 @@ This script allows users to summarize entire Youtube Videos in seconds using AI.
    pip install -r requirements.txt
    ```
 3. Install FFmpeg:
-   ```
+   
    [FFmpeg Download page](https://www.ffmpeg.org/download.html)
-   ```
+   
 
 ## Configuration
 
