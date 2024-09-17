@@ -1,5 +1,4 @@
 
-```markdown
 # Summarize entire YouTube Videos in seconds!
 
 This script allows users to summarize entire Youtube Videos in seconds using AI. It uses Google Speech Recognition API to transcribe audio and uses the Groq API to summarize the text using AI.
@@ -25,8 +24,8 @@ This script allows users to summarize entire Youtube Videos in seconds using AI.
    
 3. Install FFmpeg:
    
-   [FFmpeg Download page](https://www.ffmpeg.org/download.html)
-   ```
+[FFmpeg Download page](https://www.ffmpeg.org/download.html)
+   
 
 ## Configuration
 
